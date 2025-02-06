@@ -1,0 +1,60 @@
+{
+    "users": [
+      {
+        "id": "3a53",
+        "name": "Muhammad Shoaib",
+        "email": "shoaibkhan771@gmail.com",
+        "password": "12345678"
+      },
+      {
+        "id": "4c62",
+        "name": "Adipisci quo rerum a",
+        "email": "lili@mailinator.com",
+        "password": "Pa$$w0rd!"
+      },
+      {
+        "id": "105f",
+        "name": "shoaib",
+        "email": "shoaib@gmail.com",
+        "password": "1234567"
+      },
+      {
+        "id": "0e95",
+        "name": "Est delectus est p",
+        "email": "teho@mailinator.com",
+        "password": "Pa$$w0rd!"
+      },
+      {
+        "id": "3541",
+        "name": "Muhammad Shahzain",
+        "email": "mshahzain@gmail.com",
+        "password": "1234567"
+      }
+    ],
+    "resturants": [
+      {
+        "id": "1",
+        "name": "KFC",
+        "location": "Gulshan",
+        "contact": "021-3456789"
+      },
+      {
+        "id": "3",
+        "name": "Burger King",
+        "location": "Defence",
+        "contact": "021-3456789"
+      },
+      {
+        "id": "4",
+        "name": "Pizza Hut",
+        "location": "North Nazimabad",
+        "contact": "021-3456789"
+      },
+      {
+        "id": "5",
+        "name": "Subway",
+        "location": "Gulistan-e-Johar",
+        "contact": "021-3456789"
+      }
+    ]
+  }
